@@ -9,8 +9,8 @@
         "url": "https:\/\/i.imgur.com\/xuxVZmK.jpg"
     },
     "fonts": {
-    "*":
-    "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true"},
+        "*": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true"},
+    },
     "simple_colors": {
         "background": 0,
         "background_secondary": 385875968,
