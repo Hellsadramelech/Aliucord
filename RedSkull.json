@@ -1,8 +1,9 @@
 
     "manifest": {
         "author": "HellsAdramelech",
-        "version": "1.0.0",
         "name": "RedSkull",
+        "version": "1.0.0",
+        "liscence": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/Hellsadramelech\/Aliucord\/main\/RedSkull.json"
     },
     "background": {
