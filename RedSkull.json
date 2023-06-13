@@ -10,15 +10,15 @@
         "url": "https:\/\/i.imgur.com\/xuxVZmK.jpg"
     },
     "fonts": {
-        "*": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "ginto_regular": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "ginto_bold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "sourcecodepro_semibold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "whitney_semibold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "roboto_medium_numbers": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "ginto_medium": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true",
-        "whitney_medium": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/raw\/main\/Orbitron-Regular.ttf?raw=true"
+        "*": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "whitney_bold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "sourcecodepro_semibold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "whitney_semibold": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "roboto_medium_numbers": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "ginto_medium": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true",
+        "whitney_medium": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true"
     },
     "simple_colors": {
         "background": 0,
