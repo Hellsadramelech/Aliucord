@@ -3,14 +3,14 @@
         "author": "HellsAdramelech",
         "version": "1.0.0",
         "name": "RedSkull",
-        "updater": "https:\/\/raw.githubusercontent.com\/Hellsadramelech\/AliucordThemes\/main\/RedSkull.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Hellsadramelech\/Aliucord\/main\/RedSkull.json"
     },
     "background": {
         "url": "https:\/\/i.imgur.com\/xuxVZmK.jpg"
     },
     "fonts": {
     "*":
-    "https:\/\/github.com\/Hellsadramelech\/Aliucord-Theme\/blob\/main\/Orbitron-Regular.ttf?raw=true"},
+    "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Orbitron-Regular.ttf?raw=true"},
     "simple_colors": {
         "background": 0,
         "background_secondary": 385875968,
