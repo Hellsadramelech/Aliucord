@@ -3,7 +3,7 @@
         "author": "HellsAdramelech",
         "version": "1.0.0",
         "name": "RedSkull",
-        "updater": "https:\/\/raw.githubusercontent.com\/Hellsadramelech \/AliucordThemes\/main\/RedSkull.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Hellsadramelech\/AliucordThemes\/main\/RedSkull.json"
     },
     "background": {
         "url": "https:\/\/github.com\/Hellsadramelech\/Aliucord-Theme\/blob\/main\/RedSkull.png"
