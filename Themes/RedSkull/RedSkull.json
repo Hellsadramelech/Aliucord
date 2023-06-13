@@ -9,6 +9,7 @@
         "url": "https:\/\/i.imgur.com\/xuxVZmK.jpg"
     },
     "fonts":
+        "*": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Regular.ttf",
         "ginto_regular": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Regular.ttf",
         "ginto_bold": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Bold.ttf",
         "whitney_bold": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Bold.ttf",
