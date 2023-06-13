@@ -47,6 +47,8 @@
     "raws": {
         "call_calling": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Death-SPN.mp3?raw=true",
         "call_ringing": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Death-DPA.mp3?raw=true",
-        "reconnect": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Welcome-To-Hell.mp3?raw=true",
-        "user_join": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Welcome-To-Hell.mp3?raw=true"
+        "reconnect": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Laugh.mp3?raw=true",
+        "user_join": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Laugh.mp3?raw=true",
+        "mute": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Die.mp3?raw=true",
+        "Defen": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Die.mp3?raw+true"
     }
