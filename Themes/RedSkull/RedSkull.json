@@ -47,5 +47,5 @@
     "raws": {
         "call_calling": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Death-SPN.mp3",
         "call_ringing": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Death-DPA.mp3",
-        "mute": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Welcome-To-Hell.mp3"
+        "mute": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Audio/Welcome-To-Hell.mp3?raw=true"
     }
