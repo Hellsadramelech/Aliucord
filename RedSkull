@@ -8,7 +8,9 @@
     "background": {
         "url": "https:\/\/i.imgur.com\/xuxVZmK.jpg"
     },
-    "fonts": {},
+    "fonts": {
+    "*":
+    "https:\/\/github.com\/Hellsadramelech\/Aliucord-Theme\/blob\/main\/Orbitron-Medium.ttf"},
     "simple_colors": {
         "background": 0,
         "background_secondary": 385875968,
