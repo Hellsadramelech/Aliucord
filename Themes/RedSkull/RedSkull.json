@@ -8,7 +8,7 @@
     "background": {
         "url": "https:\/\/i.imgur.com\/xuxVZmK.jpg"
     },
-    "fonts":
+    "fonts": {
         "*": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Regular.ttf",
         "ginto_regular": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Regular.ttf",
         "ginto_bold": "https://github.com/Hellsadramelech/Aliucord/blob/main/Themes/RedSkull/Fonts/Orbitron-Bold.ttf",
@@ -43,4 +43,8 @@
         "ic_sidebar_pins_on_dark_24dp": -5028782,
         "ic_sidebar_search_24dp": -5028782,
         "ic_thread": -5028782
+    }
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/1008708032382902344\/1009705979744632942\/bcswaiting.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1008708032382902344\/1009458534653628486\/bcscall.mp3"
     }
