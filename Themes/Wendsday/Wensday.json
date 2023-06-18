@@ -5,7 +5,8 @@
         "name": "Wendsday",
         "updater": "https:\/\/raw.githubusercontent.com\/A-rhyna-H\/Blurple-With-Purple\/main\/Blurple%20With%20Purple.json"
     },
-    "background": {},
+    "background": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Background\/Wendsday.png"
+    },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/784158474761273374\/961678009218265249\/Comfortaa-Bold.ttf"
     },
