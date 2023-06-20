@@ -43,7 +43,7 @@
         "mention_highlight": 1920367002
     },
     "raws": {
-        "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Audio\/Wendsday.mp3"
-        "https://github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Audio\/Goo%20Goo%20Muck.mp3"
+        "call_calling": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Audio\/Wendsday.mp3"
+        "call_ringing": "https://github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Audio\/Goo%20Goo%20Muck.mp3"
     }
 }
