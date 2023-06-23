@@ -28,7 +28,7 @@
         "drawable_overlay_channels_selected_dark": -2138817116
     },
     "fonts": {
-        "#": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Font\/Wednesday.ttf"
+        "*": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Wendsday\/Font\/Wednesday.ttf"
     },
     "manifest": {
         "author": "HellsAdramelech",
