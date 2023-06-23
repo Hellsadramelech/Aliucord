@@ -10,7 +10,9 @@
         "url": "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Batman\/Background\/Batman.png",
         "overlay_alpha": 170
     },
-    "fonts": {},
+    "fonts": {
+        "https:\/\/github.com\/Hellsadramelech\/Aliucord\/blob\/main\/Themes\/Batman\/Font\/batmfa.ttf"
+    },
     "simple_colors": {
         "active_channel": -1722058270,
         "accent": -73726,
