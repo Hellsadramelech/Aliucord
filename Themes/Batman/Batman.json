@@ -15,6 +15,7 @@
     },
     "simple_colors": {
         "background": 0,
+        "background_secondary": 0,
         "active_channel": -1722058270,
         "accent": -73726,
         "mention_highlight": 654220152
